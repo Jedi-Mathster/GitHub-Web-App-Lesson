@@ -1,8 +1,70 @@
 html, body {
-    margin: 0;
-    padding: 0;
-  }
-  canvas {
-    display: block;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+.Title {
+  color: black;
+  font-family: 'Black Ops One';
+  background: #6F6F6F;
+  margin-right:40px;
+  font-size: 20px;
+  border: 2px solid black;
+  width: 560px;
+}
+.factions {
+  color: black;
+  font-family: 'Black Ops One';
+  background: #909090;
+  margin-right: 40px;
+  font-size: 15px;
+  border: 2px solid black;
+width: 560px;
+}
+.Ships {
+  color: black;
+  font-family: 'Black Ops One';
+  background: #525252;
+  margin-right: 40px;
+  font-size: 15px;
+  border: 2px solid black;
+  width: 560px;
+}
+.weapons {
+  color: black;
+  font-family: 'Black Ops One';
+  background: #81857B;
+  margin-right: 40px;
+  font-size: 15px;
+  border: 2px solid black;
+  width: 560px;
+}
+.image {
+  position:absolute;
+  top: 20px;
+  left:400px;
+}
+.image2 {
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
+.image3 {
+  position: absolute;
+  top: 200px;
+  left: 370px;
+}
+.image4 {
+  position: absolute;
+  top: 800px;
+  left: 400px;
+}
+.image5 {
+  position: absolute;
+  top: 1500px;
+  left: 400px;
+}
+.image6 {
+  position: absolute;
+  top: 1500px;
+  left: 300px;
+}
